@@ -1,2 +1,2 @@
 # Tiny-Target
-A small project creating a class to run various up &amp; undersampling methods on your dataset and target variable
+A small project creating a class which allows you to quicly run various up &amp; undersampling methods from IMBlearn on your dataset and target variable
